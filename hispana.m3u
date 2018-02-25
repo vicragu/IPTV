@@ -10,26 +10,8 @@ http://www.lengua.com/anthems/Argentina.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="ARGENTINA",13 Max Corrientes
 http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vivotvhd.com/img/cha/948.gif" group-title="ARGENTINA",5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2000.png" group-title="ARGENTINA",360 TV [NoKodi]
-http://ar.watcha.live/ch12/hi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png" group-title="ARGENTINA",A24 [NoKodi]
-http://ar.watcha.live/ch2/hi.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png" group-title="ARGENTINA",Aire de Santa Fe
 http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America [NoKodi]
-http://ar.watcha.live/ch3/hi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="ARGENTINA",C5N [NoKodi]
-http://ar.watcha.live/ch1/hi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bigrez.hol.es/fotosribera/images/15036219182783463749.jpg" group-title="ARGENTINA",CalleAngostaTV San Luis
-http://stream.shockmedia.com.ar:1935/8742/8742/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/667370725070807046/eiynCQK4.png" group-title="ARGENTINA",Canal 2 Dean Funes
 http://streaming.arcast.tv:1935/envivo/marcos/chunklist_w1699680288.m3u8
